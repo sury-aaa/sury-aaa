@@ -1,104 +1,61 @@
 <!-- Profile README for sury-aaa -->
 
-<div align="center">
+<img src="assets/header.svg" alt="Surya - BTech Computer Science. Computer vision, databases, operating systems." width="100%" />
 
-# Surya
+<br/><br/>
 
-**BTech Computer Science student building computer vision and data-driven systems.**
+<img src="assets/stack.svg" alt="Tech Stack" width="100%" />
+
+<br/><br/>
+
+<img src="assets/projects.svg" alt="Pinned Projects" width="100%" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-saravanan-656219374/)
-[![Email](https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:suryasaravanan337@gmail.com)
-![Followers](https://img.shields.io/github/followers/sury-aaa?style=flat-square&color=24292f&labelColor=24292f&logo=github&logoColor=white)
-
+<div align="center">
+<a href="https://github.com/sury-aaa/ambulance-signal"><img src="assets/repo-ambulance.svg" alt="ambulance-signal" width="49%" /></a>
+<a href="https://github.com/sury-aaa/e-governance-blockchain-voting"><img src="assets/repo-voting.svg" alt="e-governance-blockchain-voting" width="49%" /></a>
 </div>
 
----
+<br/>
 
-## About
-
-I'm a Computer Science undergraduate at VIT with a focus on computer vision, databases, and operating systems. I like taking a real-world problem, building a working prototype for it, and testing it properly before calling it done.
-
-Right now I'm working on portfolio projects that apply code to everyday problems.
-
-**Focus areas:** Computer Vision · Databases · Operating Systems
-
----
-
-## Tech Stack
-
-**Languages and tools**
-
-![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-24292f?style=flat-square&logo=postgresql&logoColor=white)
-
-**Computer vision**
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-24292f?style=flat-square&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-24292f?style=flat-square&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-24292f?style=flat-square&logoColor=white)
-
-**Workflow**
-
-![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-24292f?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-24292f?style=flat-square&logo=googlecolab&logoColor=white)
-
----
-
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [ambulance-signal](https://github.com/sury-aaa/ambulance-signal)
-
-Detects an ambulance in a traffic camera feed and gives its lane the green signal.
+**ambulance-signal**
 
 - YOLOv8 detector trained on a Roboflow dataset, with negative frames added to cut false positives (Ambulance mAP50 **0.888**)
 - Signal controller built as a state machine, with minimum-yellow and all-red safety gaps
 - Pygame demo that simulates priority switching across 3 lanes
 
-`Python` `YOLOv8` `Pygame` `Roboflow`
-
-</td>
-<td width="50%" valign="middle" align="center">
-
-<!-- Update the path if demo.gif lives in a subfolder -->
-<img src="https://raw.githubusercontent.com/sury-aaa/ambulance-signal/main/demo.gif" alt="ambulance-signal demo" width="100%" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### [E-Governance Blockchain Voting System](https://github.com/sury-aaa/e-governance-blockchain-voting)
-
-Academic project website exploring transparent, tamper-resistant digital voting.
-
-`Blockchain` `Web`
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Stats
-
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sury-aaa&show_icons=true&theme=transparent&hide_border=true&title_color=24292f&icon_color=57606a&text_color=57606a" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sury-aaa&layout=compact&theme=transparent&hide_border=true&title_color=24292f&text_color=57606a" />
+<!-- Update the path if demo.gif lives in a subfolder -->
+<img src="https://raw.githubusercontent.com/sury-aaa/ambulance-signal/main/demo.gif" alt="ambulance-signal demo" width="70%" />
 
 </div>
 
----
+<br/>
 
-## Contact
+<img src="assets/stats.svg" alt="Contribution Activity" width="100%" />
 
-- LinkedIn: [surya-saravanan](https://www.linkedin.com/in/surya-saravanan-656219374/)
-- Email: [suryasaravanan337@gmail.com](mailto:suryasaravanan337@gmail.com)
+<br/>
+
+<div align="center">
+
+<img alt="Contribution graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sury-aaa&bg_color=0d1117&color=8b949e&line=3fb950&point=ffffff&area=true&area_color=3fb950&hide_border=true&hide_title=true" />
+
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sury-aaa&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_color=30363d&border_radius=12" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sury-aaa&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=12" />
+
+</div>
+
+<br/>
+
+<img src="assets/connect.svg" alt="Connect" width="100%" />
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/surya-saravanan-656219374/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3fb950&labelColor=0d1117)](mailto:suryasaravanan337@gmail.com)
+
+</div>
