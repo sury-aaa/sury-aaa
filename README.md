@@ -19,16 +19,7 @@
 
 <img src="assets/about.svg" alt="About" width="100%" />
 
-```text
-$ whoami
-  Surya · BTech CSE
-
-$ focus --areas
-  Computer Vision  ·  Databases  ·  Operating Systems
-
-$ now
-  Shipping portfolio projects that solve real-world problems with code
-```
+<img src="assets/about_body.svg" alt="About Surya" width="100%" />
 
 <br/>
 
@@ -92,10 +83,9 @@ Academic project website exploring transparent, tamper-resistant digital voting.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sury-aaa&show_icons=true&bg_color=0a0a0a&title_color=ff1a1a&text_color=e6e6e6&icon_color=ff1a1a&border_color=5c0000&ring_color=ff1a1a&hide_border=false" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sury-aaa&layout=compact&bg_color=0a0a0a&title_color=ff1a1a&text_color=e6e6e6&border_color=5c0000" height="165" alt="Top languages" />
+<img src="assets/stats_body.svg" alt="ambulance-signal metrics" width="100%" />
 
-<img src="https://streak-stats.demolab.com?user=sury-aaa&background=0a0a0a&ring=ff1a1a&fire=ff1a1a&currStreakLabel=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ff1a1a&dates=9a9a9a&stroke=5c0000&border=5c0000" alt="Contribution streak" />
+<sub>Metrics from the <a href="https://github.com/sury-aaa/ambulance-signal">ambulance-signal</a> project</sub>
 
 </div>
 
