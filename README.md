@@ -1,6 +1,6 @@
 <!-- Profile README for sury-aaa -->
 
-<img src="assets/header-range.svg" alt="Surya - BTech Computer Science. Computer vision, databases, operating systems." width="100%" />
+<img src="assets/header-peaks.svg" alt="Surya - BTech Computer Science. Computer vision, databases, operating systems." width="100%" />
 
 <br/><br/>
 
